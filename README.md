@@ -11,7 +11,7 @@ Currently open for full-time/intern job roles in Full Stack development
 
 - 🔭 I’m currently working on **Full-Stack projects**
 - 🌱 I’m currently learning **React.js and NodeJS**
-- 📫 How to reach me: [LinkedIn - @priti-singh](linkedin.com/in/priti-singh90/)
+- 📫 How to reach me: [LinkedIn - @priti-singh](https://www.linkedin.com/in/priti-singh90/)
 
 ### Skills
 
